@@ -1,0 +1,5 @@
+﻿  HotelSiteMatch.c
+c:\users\jaehy\documents\github\skku_algo_fin\project1\project1\hotelsitematch.c(20): warning C4020: 'HS_SATISFACTION': 실제 매개 변수가 너무 많습니다.
+c:\users\jaehy\documents\github\skku_algo_fin\project1\project1\hotelsitematch.c(29): warning C4020: 'HS_SATISFACTION': 실제 매개 변수가 너무 많습니다.
+c:\users\jaehy\documents\github\skku_algo_fin\project1\project1\hotelsitematch.c(54): warning C4029: 선언된 정식 매개 변수 목록이 정의와 다릅니다.
+  Project1.vcxproj -> C:\Users\jaehy\Documents\GitHub\SKKU_ALGO_FIN\Project1\Debug\Project1.exe
